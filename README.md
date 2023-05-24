@@ -38,7 +38,7 @@
 ## Blogs
 - [基于pytorch和CIFAR10的简单神经网络模型建立](https://blog.csdn.net/m0_73388815/article/details/130310268?spm=1001.2014.3001.5501/)
 - [去雨综述笔记总结](https://blog.csdn.net/m0_73388815/article/details/130309176?spm=1001.2014.3001.5501/)
-- [人工蜂群算法(ABC)matlab代码实现] (https://blog.csdn.net/m0_73388815/article/details/130086384?spm=1001.2014.3001.5501/)
+- [人工蜂群算法(ABC)matlab代码实现](https://blog.csdn.net/m0_73388815/article/details/130086384?spm=1001.2014.3001.5501/)
 - [TDM-GCC MINGW配置与优化算法测试函数使用](https://blog.csdn.net/m0_73388815/article/details/129865651?spm=1001.2014.3001.5501/)
 - [DE算法的测试函数集的旋转和平移处理](https://blog.csdn.net/m0_73388815/article/details/129817066?spm=1001.2014.3001.5501/)
 - [对上一篇博客的SaDE代码进行的改进](https://blog.csdn.net/m0_73388815/article/details/129816024?spm=1001.2014.3001.5501/)
