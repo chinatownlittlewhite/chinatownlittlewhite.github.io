@@ -634,10 +634,17 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
           append_to_head:
             - | # 需要配置的变量见<https://merger.justhx.com/cn/docs/configure>
               <script>
-                var wechat = "./images/微信支付.png";
-                var alipay = "./支付宝.jpg";
+                var myname = "ck";
+                var profile = "1323335967@qq.com";
+                var usage = "payment";
+                var wechat = "";
+                var tenpay = "";
+                var alipay = "";
+                var paypal = "";
                 var multilingual = false;
                 var branding = false;
+                var title = "选择你的支付方式";
+                var subtitle = "跟随进一步的指示以向" + myname + "付款";
                 var qrcodeapi = "https://www.zhihu.com/qrcode?url=";
                 var gravatar_url = "https://gravatar.loli.net/avatar/";
               </script>
