@@ -36,11 +36,14 @@
 <!-- .slide -->
 
 ## Blogs
-
-- [我的 ASC 决赛复盘：冒险、失误与翻车](https://wu-kan.cn/2021/05/19/%E6%88%91%E7%9A%84ASC%E5%86%B3%E8%B5%9B%E5%A4%8D%E7%9B%98-%E5%86%92%E9%99%A9-%E5%A4%B1%E8%AF%AF%E4%B8%8E%E7%BF%BB%E8%BD%A6/)
-- [今日此时所想之事（二）](https://wu-kan.cn/2021/02/11/%E4%BB%8A%E6%97%A5%E6%AD%A4%E6%97%B6%E6%89%80%E6%83%B3%E4%B9%8B%E4%BA%8B-%E4%BA%8C/)
-- [十月九日](https://wu-kan.cn/2020/10/09/%E5%8D%81%E6%9C%88%E4%B9%9D%E6%97%A5/)
-- [今日此时所想之事](https://wu-kan.cn/2020/01/24/%E4%BB%8A%E6%97%A5%E6%AD%A4%E6%97%B6%E6%89%80%E6%83%B3%E4%B9%8B%E4%BA%8B/)
+- [基于pytorch和CIFAR10的简单神经网络模型建立](https://blog.csdn.net/m0_73388815/article/details/130310268?spm=1001.2014.3001.5501/)
+- [去雨综述笔记总结](https://blog.csdn.net/m0_73388815/article/details/130309176?spm=1001.2014.3001.5501/)
+- [人工蜂群算法(ABC)matlab代码实现] (https://blog.csdn.net/m0_73388815/article/details/130086384?spm=1001.2014.3001.5501/)
+- [TDM-GCC MINGW配置与优化算法测试函数使用](https://blog.csdn.net/m0_73388815/article/details/129865651?spm=1001.2014.3001.5501/)
+- [DE算法的测试函数集的旋转和平移处理](https://blog.csdn.net/m0_73388815/article/details/129817066?spm=1001.2014.3001.5501/)
+- [对上一篇博客的SaDE代码进行的改进](https://blog.csdn.net/m0_73388815/article/details/129816024?spm=1001.2014.3001.5501/)
+- [matlab基于普通DE实现基本自适应差分进化算法(SaDE)](https://blog.csdn.net/m0_73388815/article/details/129652222?spm=1001.2014.3001.5501/)
+- [matlab实现组合差异进化算法(CoDE)](https://blog.csdn.net/m0_73388815/article/details/129477783?spm=1001.2014.3001.5501/)
 
 <!-- .slide vertical=true -->
 
