@@ -47,7 +47,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             disable: false # 是否不显示sidebar
             avatar: # 侧边栏显示的头像
               enable: true
-              img: ./images/chinatownwhite.jpg # 头像的地址
+              img: https://github.com/chinatownlittlewhite/chinatownlittlewhite.github.io/blob/master-branch/images/chinatownwhite.jpg # 头像的地址
             nav: # 导航部分的内容，你也可以自己增加文字、图标（来自fontawesome）和对应的链接
               - title: '<i class="fa-solid fa-home fa-fw"></i> 首页'
                 href: /
