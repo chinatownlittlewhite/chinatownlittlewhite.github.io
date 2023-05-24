@@ -1,4 +1,4 @@
-# chinatownwhite
+## chinatownwhite
 
 欢迎访问我的主页！下面向你介绍一下我吧\~
 
@@ -7,20 +7,19 @@
 ## Contact
 
 - Address
-  - **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
+  - **Jiangxi Normal University, 99 Ziyang Avenue, Nanchang, Jiangxi, China**
 - Site
-  - **<https://wu-kan.cn>**
+  - **<https://chinatownwhite.github.io>**
 - [Resume](https://resume.wu-kan.cn/index.pdf)
 
 <!-- .slide vertical=true -->
 
 - Phone
-  - **+86 18756280097**
+  - **+86 15279076301**
 - WeChat
-  - **Wu-\_-Kan**
+  - **chinatownwhite**
 - E-mail:
-  - **[i[at]wu-kan.cn](mailto:i@wu-kan.cn)**
-  - **[wukan3[at]mail2.sysu.edu.cn](mailto:wukan3@mail2.sysu.edu.cn)**
+  - **[1323335967[at]qq.com](mailto:1323335967@qq.com)**
 
 <!-- .slide -->
 
