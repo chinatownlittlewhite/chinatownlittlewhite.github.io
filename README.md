@@ -26,12 +26,12 @@
 ## Projects
 
 <!-- .slide vertical=true -->
-## 暂无
+ - 暂无
 <!-- .slide -->
 
 ## Experience
 
-## 阿巴阿巴
+ - 阿巴阿巴
 
 <!-- .slide -->
 
