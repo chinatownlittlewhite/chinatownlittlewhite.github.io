@@ -1,25 +1,25 @@
-title: wu-kan # 站点标题
+title: chinatownwhite # 站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
-  SYSU第6年<br/>
-  水野爱<br/>
-  田宫例四驱车<br/>
-  <a href="mailto:i@wu-kan.cn">
+  二次元<br/>
+  薇尔莉特<br/>
+  CV工程师<br/>
+  <a href="mailto:1323335967@qq.com">
     <i class="fa-solid fa-envelope"></i>
   </a>
-  <a href="https://github.com/wu-kan">
+  <a href="https://github.com/chinatownlittlewhite">
     <i class="fa-brands fa-github"></i>
   </a>
-  <a href="https://vjudge.net/user/WuK">
+  <a href="#">
     <i class="fa-solid fa-smile"></i>
   </a>
-  <a href="https://space.bilibili.com/166390020">
+  <a href="#">
     <i class="fa-brands fa-bilibili"></i>
   </a>
-  <a href="https://www.zhihu.com/people/wu.kan/activities">
+  <a href="#">
     <i class="fa-brands fa-zhihu"></i>
   </a>
   <br/>
-url: https://wu-kan.cn # 你的域名，例如 https://wu-kan.github.io
+url: https://chinatownlittlewhite.github.io # 你的域名，例如 https://wu-kan.github.io
 baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
 
 defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/front-matter-defaults/>功能进行配置
@@ -30,12 +30,12 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
         comments: # 留言页，请先修改这里，确保使用的是你自己的repo！参照<https://utteranc.es/>
           append: |
             <script
-              repo="wu-kan/utterances-storage"
               src="https://utteranc.es/client.js"
+              repo="chinatownlittlewhite/comment"
               issue-term="url"
               theme="github-light"
               crossorigin="anonymous"
-              async="async"
+              async
             ></script>
         default:
           body:
