@@ -1,0 +1,59 @@
+---
+title: 配置ssh对远程服务器进行连接
+tag:
+  -插件配置
+  
+---
+##安装远程设备的ssh
+SSH分为客户端 openssh-client 和服务器 openssh-server，可以利用以下命令确认电脑上是否安装了客户端和服务器。
+```
+dpkg -l | grep ssh
+```
+如果只是想远程登陆别的机器只需要安装客户端（Ubuntu默认安装了客户端），如果要开放本机的SSH服务就需要安装服务器。
+```
+sudo apt-get install openssh-client 
+sudo apt-get install openssh-server 
+```
+##启动服务器的SSH服务
+首先确认ssh-server是否已经启动了
+```
+ps -e | grep ssh
+```
+如果启动则会显示如下状态
+![启动状态](https://photos.google.com/photo/AF1QipPcN3WFPxHOWM5TcXqdOhv2Ang2lWVsArRNKWpw)
+如果未启动,则输入如下命令
+```
+sudo /etc/init.d/ssh start 
+```
+停止和重启ssh服务的命令如下：
+```
+sudo /etc/init.d/ssh stop  #server停止ssh服务 
+sudo /etc/init.d/ssh restart  #server重启ssh服务
+```
+##本地局域网远程连接
+首先需要下载pycharm专业版(社区版无法使用)或者vscode,pycharm专业版的下载可能需要一些手段(你懂的),网上找找应该有很多
+这里使用pycharm进行举例
+##查询服务器的IP地址
+在远程服务器的命令行输入
+```
+$ ifconfig
+```
+找到服务器的ipv4地址并复制
+##pycharm部分配置
+打开工具-部署-配置,如图所示
+![如图](https://photos.google.com/photo/AF1QipNvoKE4m1qE1zl2HuYx-3BYB-xytMJ5NyTC6bSw)
+点击 + 选择SFTP
+###配置ssh
+点击ssh配置右边的...添加新的ssh配置
+主机填写之前复制的ipv4地址,端口默认为22
+用户名和密码为为服务器登陆的用户名和密码
+###配置路径
+根路径选择登录的用户的路径例如:/home/chinatownwhite  (chinatownwhite为用户名)
+点击顶栏的映射按钮
+本地路径为你所需运行的项目的地址,部署路径为你要放置在远程服务器的地址,web路径可不填
+点击确定即可
+##使用
+在配置完成之后,你可以在pycharm的下方找到服务器并可以进行添加远程服务器的python环境
+你可以在工具-部署-远程主机打开远程服务器的文件,对本地文件和远程文件进行右键点击,选择部署,进行上传和下载文件,如图:
+![如图](https://photos.google.com/photo/AF1QipPUBMNzfYxn7Vlo2Q9mgDl0_8Iq8F8mC5jGHcWj)
+#然后就可以进行使用了!
