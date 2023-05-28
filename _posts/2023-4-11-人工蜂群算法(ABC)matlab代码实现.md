@@ -1,4 +1,5 @@
 ---
+redirect_from: /posts/2023-4-11-人工蜂群算法(ABC)matlab代码实现/
 title: 人工蜂群算法(ABC)matlab代码实现
 tag:
   -优化算法
