@@ -9,7 +9,7 @@ tag:
 # 实现方法 
 为了使所用的F与CR尽量符合所求函数的要求，我们设定一个初始的交叉概率最大值CEm，初始值设为0.5，并生成服从正态分布且取值在(0.3，0.5)区间的随机数F。设定一个自适应取值的节点LP，即在迭代次数为LP是进行自适应值的改变。为了结合各个变异策略的优点，我们再次选用同CoDE类似的方法，即选取多个变异策略进行迭代，改变自适应度的同时对选取的几种变异策略的选用概率进行自适应改变。 
 以下为我们选取的四种变异策略 
-![](https://chinatownlittlewhite.github.io/images/2023-3-28-1.png) 
+![](https://chinatownlittlewhite.github.io/images/2023-3-19-1.png) 
 # 代码实现 
 ```
 close all;
@@ -172,4 +172,4 @@ ylabel('目标函数值');
 ```
 其中调用的函数为cec17测试函数集
 # 运行结果 
-![](https://chinatownlittlewhite.github.io/images/2023-3-28-2.png)
+![](https://chinatownlittlewhite.github.io/images/2023-3-19-2.png)
