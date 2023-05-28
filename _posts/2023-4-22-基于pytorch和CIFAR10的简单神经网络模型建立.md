@@ -1,7 +1,7 @@
 ---
 redirect_from: /_posts/2023-4-22-基于pytorch和CIFAR10的简单神经网络模型建立/
-  title: 基于pytorch和CIFAR10的简单神经网络模型建立
-  tag:
+title: 基于pytorch和CIFAR10的简单神经网络模型建立
+tag:
     -深度学习
 ---
 # 导入所需的库 
