@@ -1,5 +1,5 @@
 ---
-title:matlab基于普通DE实现基本自适应差分进化算法(SaDE)
+title: matlab基于普通DE实现基本自适应差分进化算法(SaDE)
 tag:
   -优化算法
 ---
