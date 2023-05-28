@@ -1,5 +1,5 @@
 ---
-redirect_from: /posts/2023-3-31-TDM-GCC MINGW配置与优化算法测试函数使用/
+redirect_from: /_posts/2023-3-31-TDM-GCC MINGW配置与优化算法测试函数使用/
 title: TDM-GCC MINGW配置与优化算法测试函数使用
 tag:
   -插件配置
