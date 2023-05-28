@@ -36,6 +36,7 @@
 <!-- .slide -->
 
 ## Blogs
+- [2023-5-27-配置ssh对远程服务器进行连接](https://chinatownlittlewhite.github.io/2023/05/27/%E9%85%8D%E7%BD%AEssh%E5%AF%B9%E8%BF%9C%E7%A8%8B%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9B%E8%A1%8C%E8%BF%9E%E6%8E%A5/)
 - [基于pytorch和CIFAR10的简单神经网络模型建立](https://blog.csdn.net/m0_73388815/article/details/130310268?spm=1001.2014.3001.5501/)
 - [去雨综述笔记总结](https://blog.csdn.net/m0_73388815/article/details/130309176?spm=1001.2014.3001.5501/)
 - [人工蜂群算法(ABC)matlab代码实现](https://blog.csdn.net/m0_73388815/article/details/130086384?spm=1001.2014.3001.5501/)
