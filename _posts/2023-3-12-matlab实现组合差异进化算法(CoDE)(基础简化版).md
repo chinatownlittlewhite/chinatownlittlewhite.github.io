@@ -1,5 +1,5 @@
 ---
-redirect_from: /_post/2023-3-12-matlab实现组合差异进化算法(CoDE)(基础简化版)/
+redirect_from: /_posts/2023-3-12-matlab实现组合差异进化算法(CoDE)(基础简化版)/
 title: matlab实现组合差异进化算法(CoDE)(基础简化版)
 tag:
     -优化算法
