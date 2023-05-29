@@ -6,7 +6,7 @@ tag:
   
 ---
 # 安装TDM-GCC MINGW 
-点击![这里](https://sourceforge.net/projects/dcplusplus/files/Dev/MinGW/GCC%206.3.0%20rev2%20%28used%20for%20DC%2B%2B%200.866-0.868%29/x86_64-6.3.0-release-win32-seh-rt_v5-rev2.7z/download?use_mirror=phoenixnap&download=&failedmirror=jaist.dl.sourceforge.net)即可下载TDM-GCC MINGW,注意跳转到页面后等待几秒会自动开始下载，如果要配置到matlab下载的版本需要6.3.0版本，这个链接进入之后下载的就是6.3.0版本。 
+点击[这里](https://sourceforge.net/projects/dcplusplus/files/Dev/MinGW/GCC%206.3.0%20rev2%20%28used%20for%20DC%2B%2B%200.866-0.868%29/x86_64-6.3.0-release-win32-seh-rt_v5-rev2.7z/download?use_mirror=phoenixnap&download=&failedmirror=jaist.dl.sourceforge.net)即可下载TDM-GCC MINGW,注意跳转到页面后等待几秒会自动开始下载，如果要配置到matlab下载的版本需要6.3.0版本，这个链接进入之后下载的就是6.3.0版本。 
 下面是下载页面 
 ![](https://chinatownlittlewhite.github.io/images/2023-3-31-1.png) 
 在下载完成之后，使用压缩软件将文件压缩至路径内，建议安装在D盘里，记录下下载的路径，将在配置环境时使用。 
