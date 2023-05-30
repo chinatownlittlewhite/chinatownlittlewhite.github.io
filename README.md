@@ -10,7 +10,7 @@
   - **Jiangxi Normal University, 99 Ziyang Avenue, Nanchang, Jiangxi, China**
 - Site
   - **<https://chinatownlittlewhite.github.io>**
-- [Resume](https://resume.wu-kan.cn/index.pdf)
+- [Resume]()
 
 <!-- .slide vertical=true -->
 
