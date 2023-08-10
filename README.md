@@ -19,7 +19,7 @@
 - WeChat
   - **chinatownwhite**
 - E-mail:
-  - **[1323335967[at]qq.com](mailto:1323335967@qq.com)**
+  - **[chinatownwhite[at]jxnu.edu.cn](mailto:chinatownwhite@jxnu.edu.cn)**
 
 <!-- .slide -->
 
