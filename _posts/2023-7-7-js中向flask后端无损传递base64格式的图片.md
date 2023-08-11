@@ -1,5 +1,5 @@
 ---
-redirect_from: /_posts/2017-12-13-NVCPC-preview-contest-from-Tailmon/
+redirect_from: /_posts/2023-7-7-js中向flask后端无损传递base64格式的图片/
 title: js中向flask后端无损传递base64格式的图片
 tags:
   - 网页开发
