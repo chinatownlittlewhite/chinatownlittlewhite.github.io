@@ -1,6 +1,6 @@
 ---
 redirect_from: /_posts/2017-12-13-NVCPC-preview-contest-from-Tailmon/
-title: NVCPC preview contest from Tailmon
+title: js中向flask后端无损传递base64格式的图片
 tags:
   - 网页开发
 ---
