@@ -34,7 +34,7 @@ class CK(nn.Module):
         return x
 ck=CK()
 ```
-# 加载数据集
+# 加载数据集(请指定下载的目录)
 可以使用PyTorch提供的datasets.CIFAR10类加载CIFAR10数据集，同时需要对图像进行预处理。
 ```
 train_data=torchvision.datasets.CIFAR10(root="D:\\pytorch学习",train=True,transform=torchvision.transforms.ToTensor(),
@@ -105,8 +105,8 @@ for i in range(epoch):
             accuracy=(outputs.argmax(1) == targets).sum()
             total_accuracy = total_accuracy + accuracy
         print("整体测试集上的Loss:{}".format(total_test_loss))
-        print("整体测试集上的正确率:{}".format(total_accuracy/test_data_size))
-        writer.add_scalar("test_accuracy", total_accuracy/test_data_size,total_test_step)
+        print("整体测试集上的正确率:{}".format(total_accuracy/len(test_data)))
+        writer.add_scalar("test_accuracy", total_accuracy/len(test_data),total_test_step)
         total_accuracy = 0
         writer.add_scalar("test_loss",total_test_loss,total_test_step)
         total_test_step += 1
