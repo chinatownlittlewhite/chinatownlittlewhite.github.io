@@ -37,10 +37,10 @@ ck=CK()
 # 加载数据集(请指定下载的目录)
 可以使用PyTorch提供的datasets.CIFAR10类加载CIFAR10数据集，同时需要对图像进行预处理。
 ```
-train_data=torchvision.datasets.CIFAR10(root="D:\\pytorch学习",train=True,transform=torchvision.transforms.ToTensor(),
+train_data=torchvision.datasets.CIFAR10(root="",train=True,transform=torchvision.transforms.ToTensor(),
                                         download=True)
  
-test_data=torchvision.datasets.CIFAR10(root="D:\\pytorch学习",train=False,transform=torchvision.transforms.ToTensor(),
+test_data=torchvision.datasets.CIFAR10(root="",train=False,transform=torchvision.transforms.ToTensor(),
                                         download=True)
 train_dataloader=DataLoader(train_data,batch_size=64)
 test_dataloader=DataLoader(test_data,batch_size=64)
