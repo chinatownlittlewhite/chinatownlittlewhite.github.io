@@ -217,7 +217,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                     "10/04/2022 11:03:56")// 这是我第一篇CSDN博客的时间
                   </script>
                 </div>
-              - | # 不蒜子页面统计，看不懂可不改
+              - | # 不算子页面统计，看不懂可不改
                 <div>
                   <div>
                     <i class="fa-solid fa-eye fa-fw"></i>
@@ -462,7 +462,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 enable: true
                 key: $
               append:
-                | # 对KaTeX过长公式渲染超出页面的修正，感谢[@AmachiInori](https://github.com/wu-kan/wu-kan.github.io/issues/13)
+                | # 对TeX过长公式渲染超出页面的修正。
                 <link
                   rel="stylesheet"
                   href="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.css"
