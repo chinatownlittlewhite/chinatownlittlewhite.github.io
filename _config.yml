@@ -707,15 +707,15 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               });
             "></script>
 
-compress_html: # <https://github.com/penibelst/jekyll-compress-html>
-  clippings: all
-  comments: [] # 注释不能压缩，否则 reveal.js 的 ppt切屏受影响
-  endings: all
-  ignore:
-    envs: all # 暂时关掉页面压缩
-  blanklines: false
-  profile: false
-  startings: []
+# compress_html: # <https://github.com/penibelst/jekyll-compress-html>
+#   clippings: all
+#   comments: [] # 注释不能压缩，否则 reveal.js 的 ppt切屏受影响
+#   endings: all
+#   ignore:
+#     envs: all # 暂时关掉页面压缩
+#   blanklines: false
+#   profile: false
+#   startings: []
 
 # githubpage上支持的插件见<https://pages.github.com/versions/>
 plugins: # <https://jekyllrb.com/docs/plugins/>
