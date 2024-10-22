@@ -1,6 +1,7 @@
 ## chinatownwhite
 
 A more formal resume is available [EN](https://chinatownlittlewhite.github.io/about_EN.html)
+
 Chinese Version[ZH](https://chinatownlittlewhite.github.io/about_ZH.html).
 
 <!-- .slide -->
@@ -31,7 +32,7 @@ Chinese Version[ZH](https://chinatownlittlewhite.github.io/about_ZH.html).
 - Textual Prompt Guided Image Restoration
   - **https://arxiv.org/abs/2312.06162**
 
-
+<!-- .slide -->
 ## Toolchains
 
 
