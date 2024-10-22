@@ -1,6 +1,7 @@
 ## chinatownwhite
 
-A more formal resume is available [EN](https://chinatownlittlewhite.github.io/about_EN.html)[ZH](https://chinatownlittlewhite.github.io/about_ZH.html).
+A more formal resume is available [EN](https://chinatownlittlewhite.github.io/about_EN.html)
+中文版简历[ZH](https://chinatownlittlewhite.github.io/about_ZH.html).
 ## Contact
 
 - Address
