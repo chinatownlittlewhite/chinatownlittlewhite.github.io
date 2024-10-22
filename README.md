@@ -1,8 +1,9 @@
 ## chinatownwhite
 
 A more formal resume is available [EN](https://chinatownlittlewhite.github.io/about_EN.html)
+Chinese Version[ZH](https://chinatownlittlewhite.github.io/about_ZH.html).
 
-中文版简历[ZH](https://chinatownlittlewhite.github.io/about_ZH.html).
+<!-- .slide -->
 ## Contact
 
 - Address
@@ -19,6 +20,8 @@ A more formal resume is available [EN](https://chinatownlittlewhite.github.io/ab
 - E-mail:
   - **[chinatownwhite@jxnu.edu.cn](mailto:chinatownwhite@jxnu.edu.cn)**
 
+
+<!-- .slide -->
 
 
 ## Research experience
