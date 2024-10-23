@@ -1,8 +1,6 @@
 ## chinatownwhite
 
-A more formal resume is available [EN](https://chinatownlittlewhite.github.io/about_EN.html)
-
-Chinese Version[ZH](https://chinatownlittlewhite.github.io/about_ZH.html).
+A more formal resume is available [EN](https://chinatownlittlewhite.github.io/about.html)
 
 <!-- .slide -->
 ## Contact
