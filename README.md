@@ -2,6 +2,8 @@
 
 A more formal resume is available [here](./about.html)
 
+Open the menu in the upper right corner.
+
 <!-- .slide -->
 ## Contact
 
