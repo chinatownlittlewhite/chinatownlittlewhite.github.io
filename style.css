@@ -1,0 +1,118 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(135deg, #f4f4f9, #e6e6f0);
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 80%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 6px 10px rgba(0,0,0,0.15);
+    margin-bottom: 30px;
+    transition: all 0.3s ease;
+}
+.header img {
+    border-radius: 50%;
+    height: 230px;
+    width: 230px;
+}
+.header img:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+.header-info {
+    flex: 1;
+    margin-left: 20px;
+}
+.header-info h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+    color: #007bff;
+}
+.header-info p {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.header-info a {
+    color: #007bff;
+    text-decoration: none;
+}
+.header-info a:hover {
+    text-decoration: underline;
+}
+.section {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+.section h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+    position: relative;
+    padding-left: 30px; /* 使标题右移 */
+}
+.section h2::before {
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-size: 24px;
+}
+/* 为不同的部分添加不同的图标 */
+.section.school h2::before {
+    content: '🎓'; /* 校园经历 */
+}
+.section.awards h2::before {
+    content: '🏆'; /* 奖项 */
+}
+.section.research h2::before {
+    content: '🔬'; /* 科研 */
+}
+.section ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+.section ul li {
+    margin-bottom: 10px;
+}
+.section a {
+    color: #007bff;
+    text-decoration: none;
+}
+.section a:hover {
+    text-decoration: underline;
+}
+@media (max-width: 768px) {
+    .header {
+        flex-direction: column;
+        align-items: center;
+    }
+    .header img {
+        margin-bottom: 20px;
+    }
+    .header-info {
+        margin-left: 0;
+        text-align: center;
+    }
+}
+@media (max-width: 600px) {
+    .container {
+        width: 95%;
+    }
+    .header-info h1 {
+        font-size: 28px;
+    }
+}
