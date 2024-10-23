@@ -1,6 +1,6 @@
 ## chinatownwhite
 
-A more formal resume is available [CN](https://chinatownlittlewhite.github.io/about.html)
+A more formal resume is available [CN](./about.html)
 
 <!-- .slide -->
 ## Contact
