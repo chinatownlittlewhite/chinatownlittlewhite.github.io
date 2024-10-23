@@ -1,6 +1,6 @@
 ## chinatownwhite
 
-A more formal resume is available [CN](./about.html)
+A more formal resume is available [here](./about.html)
 
 <!-- .slide -->
 ## Contact
