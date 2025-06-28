@@ -1,6 +1,6 @@
 ## chinatownwhite
 
-A more formal resume is available [here](./about.html)
+A more formal resume is available [here](./陈康个人简历.pdf)
 
 Open the menu in the upper right corner.
 
